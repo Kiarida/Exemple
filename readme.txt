@@ -6,3 +6,4 @@ Bug fix
 Début codage nouvelle fonctionnalité
 Termine ma fonctionnalité
 U1 bosse
+Utilisateur 2 commence à bosser
